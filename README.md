@@ -62,13 +62,14 @@
 ## 4. 파라미터 튜닝
 
 + Optuna를 활용해서 파라미터 튜닝을 진행
+  
+![image](https://github.com/jiseong99/Data-Mining-Project/assets/137580822/fa2195bf-c014-4a9d-a61f-04835193fe0c)
 
+
+![image](https://github.com/jiseong99/Data-Mining-Project/assets/137580822/675888d3-3820-4e99-8da9-cf528cff6f35)
 
 + 최종 결과
 + Train Accuracy : 약 0.7830
 + Test Accuracy : 약 0.7396
 
-![image](https://github.com/jiseong99/Data-Mining-Project/assets/137580822/fa2195bf-c014-4a9d-a61f-04835193fe0c)
 
-
-![image](https://github.com/jiseong99/Data-Mining-Project/assets/137580822/675888d3-3820-4e99-8da9-cf528cff6f35)
