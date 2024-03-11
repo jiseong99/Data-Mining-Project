@@ -35,6 +35,9 @@
 ### 상관관계 확인 / Correlation Matrix
 ![image](https://github.com/jiseong99/Data-Mining-Project/assets/137580822/e611efc0-f4a2-46d8-94d3-df2aca4c2471)
 
+
++ 상관관계가 0.1 미만인 Bloodpressure, SkinThickness 컬럼 제거
++ 
 <br/>
 
 ### 다중공선성 확인
