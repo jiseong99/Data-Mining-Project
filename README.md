@@ -21,6 +21,7 @@
 
 + 해당 데이터에는 결측치가 존재하지 않음
 <br/>
+
 ![image](https://github.com/jiseong99/Data-Mining-Project/assets/137580822/3ad2aa9f-fc47-45d9-9bdc-dc8ba6c47a93)
 
 + 각 컬럼별 데이터 분포 확인
@@ -40,7 +41,7 @@
 
 
 + 상관관계가 0.1 미만인 Bloodpressure, SkinThickness 컬럼 제거
-+ 
+
 <br/>
 
 ### 다중공선성 확인
